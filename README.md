@@ -3,7 +3,7 @@
 Welcome! This is a sample student performance dashboard website, built with HTML and CSS, and deployed to the cloud using Vercel.
 
 ## Live Demo for both static and dynamic
-🔗 [https://student-performance-matrix-portfoli.vercel.app/](https://student-performance-matrix-portfoli.vercel.app/] *
+🔗 [https://student-performance-matrix-portfoli.vercel.app/](https://student-performance-matrix-portfoli.vercel.app/]
 🔗 [https://spmproject-web.vercel.app/]
 
 ## About This Project  
