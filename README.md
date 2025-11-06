@@ -1,9 +1,10 @@
-# Student Performance Matrix Portfolio
+# Student Performance Matrix
 
 Welcome! This is a sample student performance dashboard website, built with HTML and CSS, and deployed to the cloud using Vercel.
 
-## Live Demo  
-🔗 [https://student-performance-matrix-portfoli.vercel.app/](https://student-performance-matrix-portfoli.vercel.app/)
+## Live Demo for both static and dynamic
+🔗 [https://student-performance-matrix-portfoli.vercel.app/](https://student-performance-matrix-portfoli.vercel.app/]
+🔗 [https://spmproject-web.vercel.app/]
 
 ## About This Project  
 This project is part of my journey to become a **cloud engineer**. My goals for this project were to:
